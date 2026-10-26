@@ -1,17 +1,18 @@
 # How to Reset Your Password
+
 ## Purpose
 
-This guide shows how to reset your password if you have forgotten it or cannot sign in.
+This guide shows you how to reset your password if you have forgotten it or cannot sign in.
 
 ## Before You Start
 
-- You must have access to your email address or username linked to your account.
-- You must be able to open your mail inbox, including the spam or junk folder. 
+- You must have access to the email address or username linked to your account.
+- You must be able to open your email inbox, including the spam or junk folder.
 
 ## Steps
 
-1. Go to the sign in page of the website or app.
-2. **Click forgot password?** (this may also appear as **Reset password** or **Can't sign in?**). 
+1. Go to the sign-in page of the website or app.
+2. Click **Forgot password?** (this may also appear as **Reset password** or **Can't sign in?**).
 3. Enter the email address or username linked to your account.
 4. Click **Submit** or **Continue**.
 5. Open your email inbox and find the password reset message.
